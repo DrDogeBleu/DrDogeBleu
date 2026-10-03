@@ -2,7 +2,7 @@
 
 I make things for fun.
 
-I have a PhD in **none of the things you'll find here**, which has never stopped me from trying.
+I have a PhD, but in **none of the things you'll find here**, which has never stopped me from trying.
 
 This is my little corner of GitHub for **photography, creative coding, visual experiments, and small tools** that somehow escaped from my computer and became actual projects.
 
