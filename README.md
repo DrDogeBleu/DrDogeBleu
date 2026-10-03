@@ -20,12 +20,6 @@ and occasionally end with something useful.
 - 💻 Recreational coding
 - 🌀 Other unnecessary things made with unreasonable care
 
-## 🌱 Currently making
-
-### [photo-abstract-editorial](https://github.com/DrDogeBleu/photo-abstract-editorial)
-
-A little tool for transforming photographs into abstract editorial compositions.
-
 ---
 
 ## Find me elsewhere
